@@ -6,7 +6,7 @@ My name is Henry, and I'm a former AI Developer currently transitioning to Data 
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [**prague-real-estate-data-platform**](./prague-real-estate-data-platform) | Automated end-to-end platform for monitoring the Prague rental market. Sends instant Telegram alerts for newly underpriced listings while storing historical data to analyze rental price trends | `Python` `REST API` `PostgreSQL` `dbt` `GitHub Actions` `Telegram` `Power BI` | 🟡 In Development |
+| [**prague-real-estate-data-platform**](https://github.com/jpavlicek00/prague-real-estate-data-platform) | Automated end-to-end platform for monitoring the Prague rental market. Sends instant Telegram alerts for newly underpriced listings while storing historical data to analyze rental price trends | `Python` `REST API` `PostgreSQL` `dbt` `GitHub Actions` `Telegram` `Power BI` | 🟡 In Development |
 
 📫 Have some questions? Reach me here
 
