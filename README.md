@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Henry, and I'm a former AI Developer currently transitioning to Data Engineering. Interested in all things data!
+
+🚀 Active Projects
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**prague-real-estate-data-platform**](./prague-real-estate-data-platform) | End-to-end real estate data platform combining real-time Telegram alerts with a Kimball-modeled DWH (Bronze $\rightarrow$ Silver $\rightarrow$ Gold) & dbt data quality testing | `Python` `REST API` `PostgreSQL` `dbt` `GitHub Actions` `Telegram` `Power BI` | 🟡 In Development |
+
+
+
 <!--
 **jpavlicek00/jpavlicek00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
