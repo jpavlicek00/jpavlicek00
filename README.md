@@ -8,7 +8,10 @@ My name is Henry, and I'm a former AI Developer currently transitioning to Data 
 | :--- | :--- | :--- | :--- |
 | [**prague-real-estate-data-platform**](./prague-real-estate-data-platform) | End-to-end real estate data platform combining real-time Telegram alerts with a Kimball-modeled DWH (Bronze $\rightarrow$ Silver $\rightarrow$ Gold) & dbt data quality testing | `Python` `REST API` `PostgreSQL` `dbt` `GitHub Actions` `Telegram` `Power BI` | 🟡 In Development |
 
+📫 Have some questions? Reach me here
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavliceji@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jindrich-pavlicek)
 
 <!--
 **jpavlicek00/jpavlicek00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
