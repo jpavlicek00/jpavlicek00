@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Henry, and I'm a former AI Developer currently transitioning to Data Engineering. Interested in all things data!
+My name is Jindra, and I'm a former AI Developer currently transitioning to Data Engineering. Interested in all things data!
 
 🚀 Active Projects
 
